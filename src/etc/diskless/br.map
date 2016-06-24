@@ -1,0 +1,4 @@
+sos1:br2:10.0.2.1:br.template
+sos1:br1:10.0.1.91:br.template
+sos2:br2:10.0.2.2:br.template
+sos2:br1:10.0.1.93:br.template

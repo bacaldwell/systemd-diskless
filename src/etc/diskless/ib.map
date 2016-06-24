@@ -1,0 +1,10 @@
+sos1:ib0:10.10.10.1:ib.template
+sos1:ib1:10.10.10.11:ib.template
+sos1:ib2:10.10.10.12:ib.template
+sos1:ib3:10.10.10.13:ib.template
+sos1:ib4:10.10.10.14:ib.template
+sos2:ib0:10.10.10.2:ib.template
+sos2:ib1:10.10.10.21:ib.template
+sos2:ib2:10.10.10.22:ib.template
+sos2:ib3:10.10.10.23:ib.template
+sos2:ib4:10.10.10.24:ib.template
